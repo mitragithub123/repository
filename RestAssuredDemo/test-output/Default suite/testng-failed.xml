@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demo.TestApiKey">
+      <class name="demo.TestOAuth">
         <methods>
-          <include name="apiKey"/>
+          <include name="oAuth"/>
         </methods>
-      </class> <!-- demo.TestApiKey -->
+      </class> <!-- demo.TestOAuth -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
