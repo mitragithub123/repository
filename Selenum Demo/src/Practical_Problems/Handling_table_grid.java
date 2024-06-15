@@ -11,7 +11,7 @@ import org.testng.Assert;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Handling_tabale_grid {
+public class Handling_table_grid {
 
 	public static void main(String[] args) throws InterruptedException {
 		WebDriverManager.chromedriver().setup();

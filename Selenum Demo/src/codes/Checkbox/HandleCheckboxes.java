@@ -1,4 +1,4 @@
-package codes;
+package codes.Checkbox;
 
 import java.util.List;
 
